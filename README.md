@@ -27,7 +27,8 @@ This project blends **Dutch history, art, and resilience** into a modern digital
 
  
 
- 
+ ### Font Styles
+  * Rye-Regular 
 
 
 
