@@ -7,7 +7,7 @@
  # Nightwatch Protocol
 
 A tribute project hosted at **Nightwatch.brainbuddys.com**, honoring the Dutch defenders and cultural pride of the Netherlands through Rembrandt’s 1642 masterpiece *The Night Watch* (*Militia Company of District II under the Command of Captain Frans Banninck Cocq*).
-
+![Rembrandt](/public/Rembrant-OG.webp)
 ## 🎨 Concept
 This project blends **Dutch history, art, and resilience** into a modern digital storytelling experience:
 - **Rembrandt’s Night Watch** as the “OG Protocol” of civic defense.
@@ -29,7 +29,7 @@ This project blends **Dutch history, art, and resilience** into a modern digital
 
  
 
-![Rembrandt](/public/Rembrant-OG.webp)
+
 
   
 ## 🚀 Getting Started
