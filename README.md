@@ -1,8 +1,8 @@
 
 # Honoring the Dutch
 
- ##  Rembrandt's paint of 1642 “Militia Company of District II under the Command of Captain Frans Banninck Cocq”
- ##  AKA- "NightWATCH"
+ ##  Rembrandt's painting of 1642 “Militia Company of District II under the Command of Captain Frans Banninck Cocq”
+ ##  AKA- "NightWatch"
 
  # Nightwatch Protocol
 
@@ -25,9 +25,13 @@ This project blends **Dutch history, art, and resilience** into a modern digital
 - **Social Metadata**: Open Graph + Twitter Cards + Discord embeds
 - **Content**: Interactive hero section, timeline modules, TikTok integrations
 
-## 🔑 Tagline
-> **“The OG Protocol of Dutch Defiance.”**
+ 
 
+ 
+
+![Rembrandt](/public/Rembrant-OG.webp)
+
+  
 ## 🚀 Getting Started
 ```bash
 npm install

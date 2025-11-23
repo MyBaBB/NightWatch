@@ -1,45 +1,42 @@
-#Wrapper { 
-    
-     
-
-    box-sizing: border-box;
-    padding: 1rem;
+#Wrapper {
+  box-sizing: border-box;
+  padding: 1rem;
 }
 
 /* Responsive breakpoints */
 @media (min-width: 768px) {
-    #Wrapper {
-        padding: 2rem;
-    }
+  #Wrapper {
+    padding: 2rem;
+  }
 }
 
 @media (min-width: 1024px) {
-    #Wrapper {
-        padding: 3rem;
-        max-width: 1200px;
-        margin: 0 auto;
-    }
+  #Wrapper {
+    padding: 3rem;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
 }
 .hrstyled {
-    border: .25px solid rgb(255, 187, 0);
-    height: 2px;
-    background-color: #333;
-   
-    width: 60%;
-    margin: 0 auto;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    
+  border: 0.25px solid rgb(255, 187, 0);
+  height: 2px;
+  background-color: #333;
+
+  width: 60%;
+  margin: 0 auto;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 p {
-    text-align: center;
-    font-size: 1.2rem;
-    line-height: 1.6;
-    color: whitesmoke;
-
+  text-align: center;
+  font-size: 1.2rem;
+  line-height: 1.6;
+  color: whitesmoke;
 }
-h1, h2, h3 {
-    text-align: center;
-    color: #ffbb00;
-    margin-bottom: 1rem;
-}   
+h1,
+h2,
+h3 {
+  text-align: center;
+  color: #ffbb00;
+  margin-bottom: 1rem;
+}

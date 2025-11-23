@@ -1,21 +1,15 @@
-
 .Enforcer-Button-container {
-   position: fixed;
-   top: 5%;
-   left: 2%;
-   border: .5px solid skyblue;
-   border-radius: 12px;
-   padding: 4px;
-   background-color: black;
+  position: fixed;
+  top: 5%;
+  left: 2%;
+  border: 0.5px solid skyblue;
+  border-radius: 12px;
+  padding: 4px;
+  background-color: black;
 }
 
-
-
-
-
-
 .Enforcer-Button-container::before {
-  content: '';
+  content: "";
   position: absolute;
   top: -50%;
   left: -50%;
@@ -26,22 +20,22 @@
     transparent 30%,
     rgba(135, 206, 235, 0.4) 50%,
     transparent 70%
-  ); 
+  );
   filter: blur(8px);
-  animation: diagonalSwipe 7s ease-in-out  infinite;
+  animation: diagonalSwipe 7s ease-in-out infinite;
   animation-delay: 4s;
   pointer-events: none;
 }
 @media (max-width: 685px) {
   .Enforcer-Button-container {
-    top:78%;
+    top: 78%;
     left: 5%;
   }
 }
 
 @media (max-width: 420px) {
   .Enforcer-Button-container {
-    top:32%;
+    top: 32%;
     left: 5%;
   }
 }

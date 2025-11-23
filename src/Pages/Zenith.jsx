@@ -4,7 +4,6 @@ import EnforcerButton from "../Components/EnforcerButton";
 function App() {
   return (
     <div>
-       
       <FrontPage />
       <BrainBuddyButton />
       <EnforcerButton />
