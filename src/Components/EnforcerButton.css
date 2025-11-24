@@ -1,7 +1,7 @@
 .Enforcer-Button-container {
-  position: fixed;
-  top: 5%;
-  left: 2%;
+  position: relative;
+  display: inline-block;
+  width: fit-content;
   border: 0.5px solid skyblue;
   border-radius: 12px;
   padding: 4px;

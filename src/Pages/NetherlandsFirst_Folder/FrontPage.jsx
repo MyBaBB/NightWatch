@@ -1,11 +1,16 @@
 import "./FrontPage.css";
-
+import BrainBuddyButton from "../../Components/BrainBuddyButton";
+import EnforcerButton from "../../Components/EnforcerButton";
 function App() {
   return (
     <div id="Wrapper" className="relative flex">
       <article>
         <h1>⚔️ First to Defend — From Rembrandt to Today ⚔️</h1>
         <h2>Night Watch: 1642 → 2025. Dutch vigilance never sleeps.</h2>
+      <div className="twoButtonsHolder relative flex justify-evenly  -mb-3 mt-1" >
+             <BrainBuddyButton />
+             <EnforcerButton />
+      </div>
         <img
           src="https://images.brainbuddys.com/Rembrandt/NightWatch_Image.webp"
           alt="Rembrandt's The Night Watch painting"
