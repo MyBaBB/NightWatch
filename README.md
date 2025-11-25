@@ -30,12 +30,6 @@ This page is more than a tribute — it is the **cover page with its own story**
 
 NightWatch.brainbuddys is the **front door** — a landing page that connects visitors directly to the Enforcer’s work.  
 
-- [▶️ Enter the Enforcer Channel](#)  
-- [🌐 Visit the Main Website](#)  
-
-*(Replace `#` with the actual URLs when ready.)*
-
----
 
 ## 🤝 Contribution
 
