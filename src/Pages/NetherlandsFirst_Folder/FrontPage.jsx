@@ -45,7 +45,7 @@ function App() {
         <p>
           For the Netherlands, <em>The Night Watch</em> is more than art: it is
           a symbol of being the
-          <strong>first to defend</strong>. This project honors that
+          <strong>&nbsp;first to defend</strong>. This project honors that
           legacy—blending Rembrandt`s vision to celebrate Dutch bravery,
           culture, and resilience.
         </p>
