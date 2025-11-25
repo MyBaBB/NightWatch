@@ -1,6 +1,6 @@
 import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
 import NetherlandsFirst from "./Pages/NetherlandsFirst_Folder/FrontPage";
-import OpenSource from "./Pages/OpenSource_Folder/OpenSource";
+import OpenSource from "./Components/OpenSource_Folder/OpenSource";
 import "./App.css";
 import Zenith from "./Pages/Zenith";
 

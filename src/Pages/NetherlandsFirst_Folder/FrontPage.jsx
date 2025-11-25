@@ -1,5 +1,5 @@
 import "./FrontPage.css";
-import OpenSource from "../OpenSource_Folder/OpenSource.jsx";
+import OpenSource from "../../Components/OpenSource_Folder/OpenSource.jsx";
 import BrainBuddyButton from "../../Components/BrainBuddyButton";
 import EnforcerButton from "../../Components/EnforcerButton";
 function App() {
