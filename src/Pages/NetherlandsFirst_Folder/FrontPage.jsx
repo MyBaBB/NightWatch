@@ -50,6 +50,9 @@ function App() {
           culture, and resilience.
         </p>
       </article>
+      <a href="https://about.us.mybabb.com/AboutUsPage">
+      <span className="absolute bottom-0 right-0 p-2 text-sm text-gray-400">Brett&apos;s Web Development</span>
+      </a>
     </div>
   );
 }
