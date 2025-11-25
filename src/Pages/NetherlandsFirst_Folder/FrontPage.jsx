@@ -1,4 +1,5 @@
 import "./FrontPage.css";
+import OpenSource from "../OpenSource_Folder/OpenSource.jsx";
 import BrainBuddyButton from "../../Components/BrainBuddyButton";
 import EnforcerButton from "../../Components/EnforcerButton";
 function App() {
@@ -7,17 +8,17 @@ function App() {
       <article>
         <h1>⚔️ First to Defend — From Rembrandt to Today ⚔️</h1>
         <h2>Night Watch: 1642 → 2025. Dutch vigilance never sleeps.</h2>
-      <div className="twoButtonsHolder relative flex justify-evenly  -mb-3 mt-1" >
-             
-             <EnforcerButton />
-             <BrainBuddyButton />
-      </div>
-        <img
-          src="https://images.brainbuddys.com/Rembrandt/NightWatch_Image.webp"
-          alt="Rembrandt's The Night Watch painting"
-          style={{ maxWidth: "100%", height: "auto", margin: "20px 0" }}
-        />
 
+        <div className="RembrandtDiv relative">
+          <img
+            src="https://images.brainbuddys.com/Rembrandt/NightWatch_Image.webp"
+            alt="Rembrandt's The Night Watch painting"
+            style={{ maxWidth: "100%", height: "auto", margin: "20px 0" }}
+          />
+          <EnforcerButton />
+          <OpenSource />
+          <BrainBuddyButton />
+        </div>
         <p>
           Completed in <strong>1642</strong>, Rembrandt van Rijn`s masterpiece{" "}
           <em>The Night Watch</em>

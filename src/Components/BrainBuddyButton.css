@@ -1,6 +1,7 @@
 .BrainBuddy-Button-container {
-  position: relative;
-  display: inline-block;
+  position: absolute;
+  top: 14px;
+  left: 14px;
   width: fit-content;
   border: 0.5px solid skyblue;
   border-radius: 12px;

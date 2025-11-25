@@ -1,17 +1,15 @@
-// src/components/OGProtocol.jsx
 import "./EnforcerButton.css";
 
-export default function EnforcerButton() {
+const OpenSource = () => {
   return (
-    <>
-      <div className="Enforcer-Button-container">
-        <button
-          className="enforcer-button font-Rye-Regular"
-          onClick={() => window.open("https://youtu.be/UmzSnxM_Y1w", "_blank")}
-        >
-          Enforcer
-        </button>
-      </div>
-    </>
+    <div>
+      <section className="gateway">
+        <a href="https://youtube.com/EnforcerChannel" className="cta-button">
+          ▶️ Enter the Enforcer Channel
+        </a>
+      </section>
+    </div>
   );
-}
+};
+
+export default OpenSource;

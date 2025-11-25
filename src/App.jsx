@@ -12,7 +12,6 @@ const App = () => {
           <Route path="/" element={<Zenith />} />
           <Route path="/NetherlandsFirst" element={<NetherlandsFirst />} />
           <Route path="/openSource" element={<OpenSource />} />
-          
         </Routes>
       </Router>
     </main>

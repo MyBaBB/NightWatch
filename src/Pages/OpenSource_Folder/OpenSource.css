@@ -1,17 +1,6 @@
-
-.cta-button {
-  display: inline-block;
-  padding: 1rem 2rem;
-  background: #ff4500; /* Dutch orange */
-  color: #fff;
-  font-size: 1.2rem;
-  font-weight: bold;
-  text-decoration: none;
-  border-radius: 6px;
-}
-
 .secondary-links {
-  margin-top: 1rem;
+  top: -5rem;
+  right: 2rem;
 }
 
 .secondary-button {
@@ -20,4 +9,3 @@
   color: #0055aa;
   font-weight: 600;
 }
-
