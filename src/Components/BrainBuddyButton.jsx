@@ -8,9 +8,9 @@ export default function BrainBuddyButton() {
       <div className="BrainBuddy-Button-container">
         <button
           className="brain-buddy-button font-Rye-Regular"
-          onClick={() => window.open("https://youtu.be/TfKUo2iTT-M", "_blank")}
+          onClick={() => window.open("https://www.youtube.com/@EnforcerOfficial", "_blank")}
         >
-          👉 Video                        
+          Official                     
         </button>
       </div>
     </>
