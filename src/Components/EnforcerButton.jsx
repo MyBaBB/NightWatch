@@ -4,7 +4,7 @@ const OpenSource = () => {
   return (
     <div>
       <section className="gateway">
-        <a href="https://youtube.com/EnforcerChannel" className="cta-button">
+        <a href="https://www.youtube.com/@EnforcerOfficial" className="cta-button">
           ▶️ Enter the Enforcer Channel
         </a>
       </section>
